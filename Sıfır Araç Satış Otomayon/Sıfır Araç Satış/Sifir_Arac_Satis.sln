@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sifir_Arac_Satis", "Sifir_Arac_Satis\Sifir_Arac_Satis.csproj", "{89E91769-C712-4F02-A6B8-36F0092C0D50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89E91769-C712-4F02-A6B8-36F0092C0D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E91769-C712-4F02-A6B8-36F0092C0D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E91769-C712-4F02-A6B8-36F0092C0D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E91769-C712-4F02-A6B8-36F0092C0D50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A7EE8D9-17C0-499D-9157-1A317FFC1D67}
+	EndGlobalSection
+EndGlobal

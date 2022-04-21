@@ -1,0 +1,55 @@
+C:\Users\monsi\source\repos\Sifir_Arac_Satis\Sifir_Arac_Satis\bin\Debug\Sifir_Arac_Satis.exe.config
+C:\Users\monsi\source\repos\Sifir_Arac_Satis\Sifir_Arac_Satis\bin\Debug\Sifir_Arac_Satis.exe
+C:\Users\monsi\source\repos\Sifir_Arac_Satis\Sifir_Arac_Satis\bin\Debug\Sifir_Arac_Satis.pdb
+C:\Users\monsi\source\repos\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.csproj.AssemblyReference.cache
+C:\Users\monsi\source\repos\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmGirisSayfasi.resources
+C:\Users\monsi\source\repos\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.Properties.Resources.resources
+C:\Users\monsi\source\repos\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.csproj.GenerateResource.cache
+C:\Users\monsi\source\repos\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.csproj.CoreCompileInputs.cache
+C:\Users\monsi\source\repos\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.exe
+C:\Users\monsi\source\repos\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.pdb
+C:\Users\monsi\source\repos\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmAdminAnasayfa.resources
+C:\Users\monsi\source\repos\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmAracDetayEkle.resources
+C:\Users\monsi\source\repos\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmMusteriEkleme.resources
+C:\Users\monsi\source\repos\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmAracSatis.resources
+C:\Users\monsi\source\repos\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmRandevuVeServis.resources
+C:\Users\monsi\source\repos\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmSatisRaporları.resources
+C:\Users\monsi\source\repos\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmYedekParcaVeServis.resources
+C:\Users\monsi\source\repos\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmSatilikAraclar.resources
+C:\Users\Ömer Faruk Ercivan\Desktop\1190505031_Barış_Çınar\Sifir_Arac_Satis\Sifir_Arac_Satis\bin\Debug\Sifir_Arac_Satis.exe.config
+C:\Users\Ömer Faruk Ercivan\Desktop\1190505031_Barış_Çınar\Sifir_Arac_Satis\Sifir_Arac_Satis\bin\Debug\Sifir_Arac_Satis.exe
+C:\Users\Ömer Faruk Ercivan\Desktop\1190505031_Barış_Çınar\Sifir_Arac_Satis\Sifir_Arac_Satis\bin\Debug\Sifir_Arac_Satis.pdb
+C:\Users\Ömer Faruk Ercivan\Desktop\1190505031_Barış_Çınar\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.csproj.AssemblyReference.cache
+C:\Users\Ömer Faruk Ercivan\Desktop\1190505031_Barış_Çınar\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ömer Faruk Ercivan\Desktop\1190505031_Barış_Çınar\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmGirisSayfasi.resources
+C:\Users\Ömer Faruk Ercivan\Desktop\1190505031_Barış_Çınar\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmAracDetayEkle.resources
+C:\Users\Ömer Faruk Ercivan\Desktop\1190505031_Barış_Çınar\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmAdminAnasayfa.resources
+C:\Users\Ömer Faruk Ercivan\Desktop\1190505031_Barış_Çınar\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmAracSatis.resources
+C:\Users\Ömer Faruk Ercivan\Desktop\1190505031_Barış_Çınar\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmSatilikAraclar.resources
+C:\Users\Ömer Faruk Ercivan\Desktop\1190505031_Barış_Çınar\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmMusteriEkleme.resources
+C:\Users\Ömer Faruk Ercivan\Desktop\1190505031_Barış_Çınar\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmRandevuVeServis.resources
+C:\Users\Ömer Faruk Ercivan\Desktop\1190505031_Barış_Çınar\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmSatisRaporları.resources
+C:\Users\Ömer Faruk Ercivan\Desktop\1190505031_Barış_Çınar\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmYedekParcaVeServis.resources
+C:\Users\Ömer Faruk Ercivan\Desktop\1190505031_Barış_Çınar\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.Properties.Resources.resources
+C:\Users\Ömer Faruk Ercivan\Desktop\1190505031_Barış_Çınar\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.csproj.GenerateResource.cache
+C:\Users\Ömer Faruk Ercivan\Desktop\1190505031_Barış_Çınar\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Faruk Ercivan\Desktop\1190505031_Barış_Çınar\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.exe
+C:\Users\Ömer Faruk Ercivan\Desktop\1190505031_Barış_Çınar\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.pdb
+C:\Users\Ömer Faruk Ercivan\Desktop\Görsel Programlama\1190505033_ÖmerFaruk_Ercivan\Sifir_Arac_Satis\Sifir_Arac_Satis\bin\Debug\Sifir_Arac_Satis.exe.config
+C:\Users\Ömer Faruk Ercivan\Desktop\Görsel Programlama\1190505033_ÖmerFaruk_Ercivan\Sifir_Arac_Satis\Sifir_Arac_Satis\bin\Debug\Sifir_Arac_Satis.exe
+C:\Users\Ömer Faruk Ercivan\Desktop\Görsel Programlama\1190505033_ÖmerFaruk_Ercivan\Sifir_Arac_Satis\Sifir_Arac_Satis\bin\Debug\Sifir_Arac_Satis.pdb
+C:\Users\Ömer Faruk Ercivan\Desktop\Görsel Programlama\1190505033_ÖmerFaruk_Ercivan\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.csproj.AssemblyReference.cache
+C:\Users\Ömer Faruk Ercivan\Desktop\Görsel Programlama\1190505033_ÖmerFaruk_Ercivan\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmGirisSayfasi.resources
+C:\Users\Ömer Faruk Ercivan\Desktop\Görsel Programlama\1190505033_ÖmerFaruk_Ercivan\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmAracDetayEkle.resources
+C:\Users\Ömer Faruk Ercivan\Desktop\Görsel Programlama\1190505033_ÖmerFaruk_Ercivan\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmAdminAnasayfa.resources
+C:\Users\Ömer Faruk Ercivan\Desktop\Görsel Programlama\1190505033_ÖmerFaruk_Ercivan\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmAracSatis.resources
+C:\Users\Ömer Faruk Ercivan\Desktop\Görsel Programlama\1190505033_ÖmerFaruk_Ercivan\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmSatilikAraclar.resources
+C:\Users\Ömer Faruk Ercivan\Desktop\Görsel Programlama\1190505033_ÖmerFaruk_Ercivan\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmMusteriEkleme.resources
+C:\Users\Ömer Faruk Ercivan\Desktop\Görsel Programlama\1190505033_ÖmerFaruk_Ercivan\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmRandevuVeServis.resources
+C:\Users\Ömer Faruk Ercivan\Desktop\Görsel Programlama\1190505033_ÖmerFaruk_Ercivan\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmSatisRaporları.resources
+C:\Users\Ömer Faruk Ercivan\Desktop\Görsel Programlama\1190505033_ÖmerFaruk_Ercivan\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.FrmYedekParcaVeServis.resources
+C:\Users\Ömer Faruk Ercivan\Desktop\Görsel Programlama\1190505033_ÖmerFaruk_Ercivan\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.Properties.Resources.resources
+C:\Users\Ömer Faruk Ercivan\Desktop\Görsel Programlama\1190505033_ÖmerFaruk_Ercivan\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.csproj.GenerateResource.cache
+C:\Users\Ömer Faruk Ercivan\Desktop\Görsel Programlama\1190505033_ÖmerFaruk_Ercivan\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Faruk Ercivan\Desktop\Görsel Programlama\1190505033_ÖmerFaruk_Ercivan\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.exe
+C:\Users\Ömer Faruk Ercivan\Desktop\Görsel Programlama\1190505033_ÖmerFaruk_Ercivan\Sifir_Arac_Satis\Sifir_Arac_Satis\obj\Debug\Sifir_Arac_Satis.pdb
