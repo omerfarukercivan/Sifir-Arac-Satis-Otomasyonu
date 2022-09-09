@@ -14,10 +14,12 @@ namespace Sifir_Arac_Satis
 {
     public partial class FrmSatisRaporları : Form
     {
+    
         public FrmSatisRaporları()
         {
             InitializeComponent();
         }
+        
         SqlConnection baglanti = new SqlConnection("Data Source=DESKTOP-73NEDQR\\SQLEXPRESS;Initial Catalog=AracSatisServis;Integrated Security=True");
         private void btnGeri_Click(object sender, EventArgs e)
         {
@@ -25,6 +27,7 @@ namespace Sifir_Arac_Satis
             fr.Show();
             this.Close();
         }
+        
         private void VerileriGoster()
         {
             baglanti.Open();
@@ -47,6 +50,7 @@ namespace Sifir_Arac_Satis
             }
             baglanti.Close();
         }
+        
         private void FrmSatisRaporları_Load(object sender, EventArgs e)
         {
             VerileriGoster();
