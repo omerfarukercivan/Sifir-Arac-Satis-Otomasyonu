@@ -18,13 +18,16 @@ namespace Sifir_Arac_Satis
         {
             InitializeComponent();
         }
+        
         SqlConnection baglanti = new SqlConnection("Data Source=DESKTOP-73NEDQR\\SQLEXPRESS;Initial Catalog=AracSatisServis;Integrated Security=True");
+        
         private void btnGeri_Click(object sender, EventArgs e)
         {
             FrmAdminAnasayfa fr = new FrmAdminAnasayfa();
             fr.Show();
             this.Close();
         }
+        
         private void verileriGoster()
         {
             listView1.Items.Clear();
@@ -64,12 +67,14 @@ namespace Sifir_Arac_Satis
             }
             baglanti.Close();
         }
+        
         private void FrmRandevuVeServis_Load(object sender, EventArgs e)
         {
             verileriGoster();
         }
 
         int id = 0;
+        
         private void listView1_DoubleClick(object sender, EventArgs e)
         {
             id = int.Parse(listView1.SelectedItems[0].SubItems[0].Text);
