@@ -37,7 +37,6 @@ namespace Sifir_Arac_Satis
             SqlDataReader oku = komut.ExecuteReader();
             while (oku.Read())
             {
-
                 txtAd.Text = oku["isim"].ToString();
                 txtSoyad.Text = oku["soyisim"].ToString();
                 txtTelNo.Text = oku["telno"].ToString();
@@ -45,8 +44,6 @@ namespace Sifir_Arac_Satis
                 txtModel.Text = oku["aracModeli"].ToString();
                 txtAModel.Text = oku["aracAltModeli"].ToString();
                 txtAracTipi.Text = oku["aracTipi"].ToString();
-
-
             }
             baglanti.Close();
         }
@@ -59,8 +56,6 @@ namespace Sifir_Arac_Satis
             txtModel.Text = "";
             txtAModel.Text = "";
             txtAracTipi.Text = "";
-
-
         }
         private void button1_Click(object sender, EventArgs e)
         {
@@ -72,7 +67,6 @@ namespace Sifir_Arac_Satis
         {
             // TODO: Bu kod satırı 'aracSatisServisDataSet1.musteriler' tablosuna veri yükler. Bunu gerektiği şekilde taşıyabilir, veya kaldırabilirsiniz.
             this.musterilerTableAdapter.Fill(this.aracSatisServisDataSet1.musteriler);
-
         }
 
         private void fillBy1ToolStripButton_Click(object sender, EventArgs e)
@@ -85,7 +79,6 @@ namespace Sifir_Arac_Satis
             {
                 System.Windows.Forms.MessageBox.Show(ex.Message);
             }
-
         }
 
         private void btnRandevuOlustur_Click(object sender, EventArgs e)
@@ -125,10 +118,7 @@ namespace Sifir_Arac_Satis
                 + "' where tc = " + id + "", baglanti);
             komut2.ExecuteNonQuery();
             MessageBox.Show("Servis detayı eklendi");
-            baglanti.Close();
-
-
-            
+            baglanti.Close(); 
         }
 
         private void btnServisDone_Click(object sender, EventArgs e)
