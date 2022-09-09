@@ -32,7 +32,6 @@ namespace Sifir_Arac_Satis
             this.aracTableAdapter.Fill(this.aracSatisServisDataSet1.arac);
             // TODO: Bu kod satırı 'aracSatisServisDataSet1.musteriler' tablosuna veri yükler. Bunu gerektiği şekilde taşıyabilir, veya kaldırabilirsiniz.
             this.musterilerTableAdapter.Fill(this.aracSatisServisDataSet1.musteriler);
-
         }
 
         private void fillByToolStripButton_Click(object sender, EventArgs e)
@@ -45,8 +44,8 @@ namespace Sifir_Arac_Satis
             {
                 System.Windows.Forms.MessageBox.Show(ex.Message);
             }
-
         }
+        
         private void verileriGoster()
         {
             baglanti.Open();
@@ -54,15 +53,14 @@ namespace Sifir_Arac_Satis
             SqlDataReader oku = komut.ExecuteReader();
             while (oku.Read())
             {
-
                 txtAd.Text = oku["isim"].ToString();
                 txtSoyad.Text = oku["soyisim"].ToString();
                 mskTel.Text = oku["telno"].ToString();
                 txtMail.Text = oku["email"].ToString();
-
             }
             baglanti.Close();
         }
+        
         private void sil()
         {
             txtAd.Text = "";
@@ -70,11 +68,11 @@ namespace Sifir_Arac_Satis
             mskTel.Text = "";
             txtMail.Text = "";
         }
+        
         private void btnGoruntule_Click(object sender, EventArgs e)
         {
             sil();
             verileriGoster();
-
         }
 
         private void fillByToolStripButton_Click_1(object sender, EventArgs e)
@@ -87,7 +85,6 @@ namespace Sifir_Arac_Satis
             {
                 System.Windows.Forms.MessageBox.Show(ex.Message);
             }
-
         }
 
         private void btnAra_Click(object sender, EventArgs e)
@@ -139,7 +136,6 @@ namespace Sifir_Arac_Satis
             txtMaxCM.Text = listView1.SelectedItems[0].SubItems[14].Text;
             txtStok.Text = listView1.SelectedItems[0].SubItems[15].Text;
             txtFiyat.Text = listView1.SelectedItems[0].SubItems[5].Text;
-            
         }
 
         private void txtAModel_TextChanged(object sender, EventArgs e)
@@ -165,7 +161,6 @@ namespace Sifir_Arac_Satis
             SqlCommand komut2 = new SqlCommand("update arac set aracStok = aracStok-1 where aracID='"+id+"'",baglanti);
             komut2.ExecuteNonQuery();
             baglanti.Close();
-
         }
     }
 }
