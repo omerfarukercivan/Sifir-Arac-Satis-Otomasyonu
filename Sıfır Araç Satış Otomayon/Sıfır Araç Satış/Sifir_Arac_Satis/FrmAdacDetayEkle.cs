@@ -65,18 +65,12 @@ namespace Sifir_Arac_Satis
                     baglanti.Close();
 
                     MessageBox.Show("Yeni araç başarıyla eklenmiştir.");
-
-
                 }
                 catch(Exception)
                 {
                     MessageBox.Show("Kayıt başarısız!!");
                 }
-
-                
-
-            }
-                
+            }     
         }
     }
 }
