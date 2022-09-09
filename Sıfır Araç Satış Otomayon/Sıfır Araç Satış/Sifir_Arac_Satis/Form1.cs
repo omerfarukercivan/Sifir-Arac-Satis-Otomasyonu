@@ -40,9 +40,7 @@ namespace Sifir_Arac_Satis
                     FrmAdminAnasayfa fr = new FrmAdminAnasayfa();
                     fr.Show();
                     this.Hide();
-
                 }
-
             }
             catch (Exception)
             {
