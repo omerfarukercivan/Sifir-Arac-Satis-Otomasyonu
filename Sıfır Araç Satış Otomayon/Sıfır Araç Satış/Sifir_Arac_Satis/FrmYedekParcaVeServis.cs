@@ -18,7 +18,9 @@ namespace Sifir_Arac_Satis
         {
             InitializeComponent();
         }
+        
         SqlConnection baglanti = new SqlConnection("Data Source=DESKTOP-73NEDQR\\SQLEXPRESS;Initial Catalog=AracSatisServis;Integrated Security=True");
+        
         private void btnGeri_Click(object sender, EventArgs e)
         {
             FrmAdminAnasayfa fr = new FrmAdminAnasayfa();
@@ -30,6 +32,7 @@ namespace Sifir_Arac_Satis
         {
             txtRandevuTarih.Text = monthCalendar2.SelectionRange.Start.ToShortDateString();
         }
+        
         private void verileriGoster()
         {
             baglanti.Open();
@@ -47,6 +50,7 @@ namespace Sifir_Arac_Satis
             }
             baglanti.Close();
         }
+        
         private void sil()
         {
             txtAd.Text = "";
