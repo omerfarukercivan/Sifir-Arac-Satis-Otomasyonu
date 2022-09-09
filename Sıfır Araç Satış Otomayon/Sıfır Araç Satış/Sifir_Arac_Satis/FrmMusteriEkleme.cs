@@ -55,7 +55,6 @@ namespace Sifir_Arac_Satis
                 listView1.Items.Add(ekle);
             }
             baglanti.Close();
-
         }
 
         private void FrmMusteriEkleme_Load(object sender, EventArgs e)
@@ -81,15 +80,11 @@ namespace Sifir_Arac_Satis
                 komut1.ExecuteNonQuery();
 
                 MessageBox.Show("Yeni müşteri başarıyla eklenmiştir.");
-
             }
-
             baglanti.Close();
             VerileriGoster();
         }
-
-
- 
+        
         private void btnSil_Click(object sender, EventArgs e)
         {
             baglanti.Open();
@@ -98,7 +93,9 @@ namespace Sifir_Arac_Satis
             baglanti.Close();
             VerileriGoster();
         }
+        
         int id = 0;
+        
         private void listView1_DoubleClick(object sender, EventArgs e)
         {
             id = int.Parse(listView1.SelectedItems[0].SubItems[0].Text);
@@ -149,7 +146,6 @@ namespace Sifir_Arac_Satis
             txtAracAModeli.Clear();
             txtPlaka.Clear();
             cmbYakitTipi.Text = "";
-
         }
     }
 }
